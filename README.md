@@ -220,6 +220,7 @@ public:
 };
 
 void displayMenu() {
+//content
     cout << "\nSTUDENT REPORT CARD SYSTEM\n";
     cout << "1. Add Student\n";
     cout << "2. Display All Students\n";
